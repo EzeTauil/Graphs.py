@@ -1,2 +1,2 @@
 # GRAPHS
-## GRÁFICOS DE TABLAS en Python
+## GRÁFICOS de TABLAS en Python
